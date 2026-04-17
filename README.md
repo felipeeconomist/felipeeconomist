@@ -5,8 +5,6 @@
 - 🎓 I hold a bachelor’s and a master’s degree in Economics from the Federal University of Viçosa (UFV-Brazil) and a Ph.D. in Applied Economics from the Luiz de Queiroz College of Agriculture at the University of São Paulo (ESALQ/USP-Brazil).
 - 📚 I hold an MBA in Agribusiness and an MBA in Data Science and Analytics from the MBA USP/ESALQ (Brazil).
 
-This is my [website](https://felipeeconomist.github.io/).
-
 <div>
   <img style="display:inline;" alt="Felipe-R" height="30" width="40" 
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
